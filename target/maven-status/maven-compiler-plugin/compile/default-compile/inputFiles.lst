@@ -1,0 +1,14 @@
+/Users/simonszydlik/Dev/Cleopatra/costengineering-interview/src/main/java/eu/costengineering/dataprocess/interview/evaluators/Evaluator.java
+/Users/simonszydlik/Dev/Cleopatra/costengineering-interview/src/main/java/eu/costengineering/dataprocess/interview/domain/CostDirection.java
+/Users/simonszydlik/Dev/Cleopatra/costengineering-interview/src/main/java/eu/costengineering/dataprocess/interview/parsers/Parser.java
+/Users/simonszydlik/Dev/Cleopatra/costengineering-interview/src/main/java/eu/costengineering/dataprocess/interview/frontend/Query.java
+/Users/simonszydlik/Dev/Cleopatra/costengineering-interview/src/main/java/eu/costengineering/dataprocess/interview/frontend/Launcher.java
+/Users/simonszydlik/Dev/Cleopatra/costengineering-interview/src/main/java/eu/costengineering/dataprocess/interview/frontend/components/ComboBox.java
+/Users/simonszydlik/Dev/Cleopatra/costengineering-interview/src/main/java/eu/costengineering/dataprocess/interview/domain/CostType.java
+/Users/simonszydlik/Dev/Cleopatra/costengineering-interview/src/main/java/eu/costengineering/dataprocess/interview/frontend/MainWindow.java
+/Users/simonszydlik/Dev/Cleopatra/costengineering-interview/src/main/java/eu/costengineering/dataprocess/interview/parsers/CSVParseReader.java
+/Users/simonszydlik/Dev/Cleopatra/costengineering-interview/src/main/java/eu/costengineering/dataprocess/interview/evaluators/EvaluatorFactory.java
+/Users/simonszydlik/Dev/Cleopatra/costengineering-interview/src/main/java/eu/costengineering/dataprocess/interview/evaluators/EvaluatorCompanyX.java
+/Users/simonszydlik/Dev/Cleopatra/costengineering-interview/src/main/java/eu/costengineering/dataprocess/interview/frontend/components/InputField.java
+/Users/simonszydlik/Dev/Cleopatra/costengineering-interview/src/main/java/eu/costengineering/dataprocess/interview/domain/CostData.java
+/Users/simonszydlik/Dev/Cleopatra/costengineering-interview/src/main/java/eu/costengineering/dataprocess/interview/CostEstimation.java

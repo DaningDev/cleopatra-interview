@@ -1,0 +1,8 @@
+Cable installation;DIRECT;500;Installation
+Pipe installation;DIRECT;700;Installation
+Maintenance;INDIRECT;10.0;Installation
+120 sq-mm Copper Power Cable;DIRECT;400;Electrical
+Pipe SS 12 inch;DIRECT;200;Electrical
+Material loss;INDIRECT;5.0;Electrical
+Class 7 Inch PVC Pipe;DIRECT;100;Heating
+Fiberglass Pipe Insulation;DIRECT; 200;Heating
